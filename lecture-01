@@ -1,0 +1,17 @@
+Analyzing and transforming data (text, images, audio, or video) to forecast future scenarios and provide sensible recommendations through recommendation systems is a vital aspect of data science.
+
+Data science is a multidisciplinary field that uses scientific methods, processes, algorithms, and systems to derive knowledge and insights from structured and unstructured data. It combines techniques from statistics, computer science, and domain-specific expertise to analyze and interpret complex datasets. The primary objective is to enable data-driven decisions and predictions.
+
+**Data Science vs AI vs ML:**
+
+- **Data Science:** Encompasses mathematics and statistics, visualization, and exploratory data analysis (EDA), which form the basic building blocks for both AI and ML.
+  
+- **Artificial Intelligence (AI):** In AI, data is provided to a system in such a way that the system can make its own decisions and generate outputs. It’s akin to giving a system a brain, allowing it to make autonomous decisions. Examples include Amazon Echo and Google Assistant.
+  
+- **Machine Learning (ML):** ML, a subset of AI, is used to provide recommendations based on given data or past experiences. Examples include movie recommendations on OTT platforms like Netflix and product suggestions on online shopping platforms like Amazon.
+
+**Note:** AI (Artificial Intelligence) is the broader field that includes ML (Machine Learning), which further includes Deep Learning (DL).
+
+- **AI --> ML --> Deep Learning**
+
+- **Deep Learning:** Utilizes neural networks to address complex problems.
