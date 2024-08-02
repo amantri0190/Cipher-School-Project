@@ -9,7 +9,7 @@ int factorial(int n)
         return 1;
     // int chotti = factorial(n - 1); 
     // int badi = n * chotti;
-
+    cout<<endl;
     // int smallerPrblm = factorial(n - 1);
     // int bigerPrblm = n * smallerPrblm;
     // return bigerPrblm;
